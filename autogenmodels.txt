@@ -1,0 +1,1 @@
+sequelize-auto -o "./models" -d ictc_pepms -h 108.167.180.190 -u ictc_dev -p 3306 -x juan04:@# -e mysql -T tbl_user,tbl_conf_class
